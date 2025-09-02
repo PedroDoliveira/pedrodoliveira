@@ -2,6 +2,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Estácio e estou me dedicando a me tornar um **Desenvolvedor Full Stack**.  
 Tenho paixão por aprender e criar projetos que fazem a diferença.
+<br>
 
 ## 💻 Tecnologias que estudo
 - **Frontend:** React, Tailwind  
